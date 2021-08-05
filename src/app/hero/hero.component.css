@@ -1,10 +1,20 @@
-img{
-    width: 100%;
+img {
+  width: 100%;
 }
 
-h1{
-    text-align: center;
-    font-family: sans-serif;
-    font-size: 3em;
-    margin-bottom: 0;
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  text-align: left;
+  color: wheat;
+  padding: 82px 40px;
+  font-size: 95pt;
+}
+
+.banner {
+  background-image: url('https://t4.ftcdn.net/jpg/01/76/36/91/240_F_176369102_cTo1QLGp9yrpvfvlcITj3YbuHKSecbH4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 39rem;
 }
